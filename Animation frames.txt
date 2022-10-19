@@ -1,0 +1,17 @@
+Animation frames (para hacerlo mas fluido y que estén en bucle restarlo uno al frame final): 
+
+0 - 40: Idle 
+
+50 - 90: Idle animation with object
+
+100 - 128: Walking 
+
+130 - 158: Walking with object
+
+160 - 185: Running 
+
+190 - 215: Running with object
+
+220 - 248: Jumping
+
+250 - 278: Jumping with object
