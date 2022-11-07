@@ -23,3 +23,10 @@ Animation frames (para hacerlo mas fluido y que estén en bucle restarlo uno al 
 365 - 393: Jumping with object
 
 400 - 428: Jumping with object on top of head
+
+430 - 470: Cerilla
+
+480 - 520: Empujar caja
+
+530 - 575: Tirar de caja
+
