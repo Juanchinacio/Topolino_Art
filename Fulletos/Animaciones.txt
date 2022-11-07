@@ -1,0 +1,48 @@
+Fulleto embestidor: 
+
+- Cargar
+
+- Embestir
+
+- Andar
+
+- Chocar con algo
+
+- Comerse una hoja
+
+Fulleto tapón: 
+
+- Moverse
+
+- Avisar a los demás
+
+Fulleto tímido: 
+
+- Andar
+
+- Empujarte
+
+- Transformarse en caja y en duende otra vez
+
+- Retroceder
+
+Fulleto atrevido:
+
+- Andar 
+
+- Transformarse en caja y en duende otra vez
+
+- Empujarte
+
+- Sentarse 
+
+Fulleto pelmazo:
+
+- Andar
+
+- Apagar cerilla?
+
+- Empujar caja
+
+- Tirar de caja
+
