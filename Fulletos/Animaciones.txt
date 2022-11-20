@@ -1,48 +1,37 @@
 Fulleto embestidor: 
 
-- Cargar
+- Idle: 140 - 170 
 
-- Embestir
+- Cargar: 50 - 110
 
-- Andar
+- Embestir: 120 - 132
 
-- Chocar con algo
-
-- Comerse una hoja
+- Andar: 0 - 40
 
 Fulleto tapón: 
 
-- Moverse
+- Moverse: 30 - 55
 
-- Avisar a los demás
+- Avisar a los demás: 0 - 23
 
 Fulleto tímido: 
 
-- Andar
+- Idle: 0 - 109
 
-- Empujarte
+- Andar: 120 - 150
 
-- Transformarse en caja y en duende otra vez
+- Empujarte: 220 - 270
 
-- Retroceder
+- Retroceder: 160 - 210
 
 Fulleto atrevido:
 
-- Andar 
+- Andar: 0 - 29 
 
-- Transformarse en caja y en duende otra vez
-
-- Empujarte
-
-- Sentarse 
+- Empujarte: 40 - 95
 
 Fulleto pelmazo:
 
-- Andar
+- Andar: 0 - 40
 
-- Apagar cerilla?
-
-- Empujar caja
-
-- Tirar de caja
 
