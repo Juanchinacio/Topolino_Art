@@ -20,15 +20,27 @@ Fulleto tímido:
 
 - Andar: 120 - 150
 
+- Retroceder: 160 - 210
+
 - Empujarte: 220 - 270
 
-- Retroceder: 160 - 210
+- Transformarse en caja: 270 - 310
+
+- Idle caja: 310 - 375
+
+- Destransformarse: 380 - 414
 
 Fulleto atrevido:
 
 - Andar: 0 - 29 
 
 - Empujarte: 40 - 95
+
+- Transformarse en caja: 100 - 138
+
+- Idle caja: 138 - 197
+
+- Destransformarse: 197 - 232
 
 Fulleto pelmazo:
 
